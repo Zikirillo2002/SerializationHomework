@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Department xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DepartmentName>Receptions</DepartmentName>
+  <Employees>
+    <Employee>
+      <EmployeeName>Zikirillo</EmployeeName>
+    </Employee>
+    <Employee>
+      <EmployeeName>Ronaldo</EmployeeName>
+    </Employee>
+    <Employee>
+      <EmployeeName>Messi</EmployeeName>
+    </Employee>
+    <Employee>
+      <EmployeeName>Anvar</EmployeeName>
+    </Employee>
+  </Employees>
+</Department>
